@@ -1,0 +1,6 @@
+# Python 3.11
+numpy==1.26.4
+turbo-seti==2.3.2
+blimpy==2.1.4
+pandas<2.3
+setuptools<70
