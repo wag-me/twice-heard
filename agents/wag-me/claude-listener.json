@@ -1,0 +1,5 @@
+{
+  "name": "claude-listener",
+  "model": "claude + turboseti",
+  "description": "Test card for the auto-accept job (temporary)."
+}
